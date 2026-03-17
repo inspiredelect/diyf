@@ -47,9 +47,8 @@ export default function About() {
                 Our Mission
               </h3>
               <p className="text-[#3D3D3D] leading-relaxed">
-                To empower Nigerian youth through transformative education, leadership
-                development, and entrepreneurship programs that foster innovation,
-                integrity, and community service.
+                To ignite the spark of potential within young minds, empowering them to step into their future
+                with confidence, purpose, and a sense of direction.
               </p>
               <div className="mt-4 text-6xl opacity-5">🎯</div>
             </div>
@@ -60,9 +59,9 @@ export default function About() {
                 Our Vision
               </h3>
               <p className="text-[#3D3D3D] leading-relaxed">
-                A generation of inspired, disciplined, and innovative young Nigerians
-                leading positive change in their communities and contributing meaningfully
-                to national development.
+                Empowering, educating, and developing young people into responsible, innovative, and
+                productive members of the society, equipped with the skills, knowledge, and creativity needed
+                to thrive in an ever-changing world.
               </p>
               <div className="mt-4 text-6xl opacity-5">🌱</div>
             </div>

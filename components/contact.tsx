@@ -57,16 +57,30 @@ export default function Contact() {
                 </div>
               </div>
 
+              {/* Phone */}
+              <div className="flex gap-4">
+                <div className="text-3xl flex-shrink-0">📞</div>
+                <div>
+                  <h3 className="font-semibold text-[#0A0F1E] mb-1">Phone</h3>
+                  <a
+                    href="tel:+2349068478932"
+                    className="text-[#C8922A] hover:text-[#B8792A] transition-colors"
+                  >
+                    +234 906 847 8932
+                  </a>
+                </div>
+              </div>
+
               {/* Email */}
               <div className="flex gap-4">
                 <div className="text-3xl flex-shrink-0">📧</div>
                 <div>
                   <h3 className="font-semibold text-[#0A0F1E] mb-1">Email</h3>
                   <a
-                    href="mailto:hello@deinspired.org"
+                    href="mailto:Inspiredelect1@gmail.com"
                     className="text-[#C8922A] hover:text-[#B8792A] transition-colors"
                   >
-                    hello@deinspired.org
+                    Inspiredelect1@gmail.com
                   </a>
                 </div>
               </div>

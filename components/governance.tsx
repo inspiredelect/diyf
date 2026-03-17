@@ -3,17 +3,6 @@
 export default function Governance() {
   const governanceBodies = [
     {
-      title: 'Board of Trustees',
-      subtitle: 'Supreme Governing Body',
-      responsibilities: [
-        'Strategic oversight and policy approval',
-        'Legal and fiduciary accountability',
-        'Compliance with regulatory requirements',
-        'Long-term sustainability planning',
-        'Major organizational decisions',
-      ],
-    },
-    {
       title: 'Executive Council',
       subtitle: 'Day-to-Day Management',
       responsibilities: [
@@ -58,7 +47,7 @@ export default function Governance() {
         </div>
 
         {/* Governance Bodies Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           {governanceBodies.map((body, index) => (
             <div
               key={index}
