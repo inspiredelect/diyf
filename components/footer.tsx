@@ -154,7 +154,7 @@ export default function Footer() {
               © {year} De Inspired Youth Foundation. All rights reserved.
             </p>
             <div className="text-[#C8922A] text-xs uppercase tracking-widest font-medium">
-              Integrity · Discipline · Excellence
+              Integrity · Discipline · Innovation · Service · Excellence
             </div>
           </div>
         </div>
