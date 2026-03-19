@@ -5,7 +5,7 @@ import Hero from '@/components/hero';
 import About from '@/components/about';
 import Values from '@/components/values';
 import Programs from '@/components/programs';
-// import Leadership from '@/components/leadership';
+import Leadership from '@/components/leadership';
 import Membership from '@/components/membership';
 import Governance from '@/components/governance';
 import Contact from '@/components/contact';
@@ -19,7 +19,7 @@ export default function Home() {
       <About />
       <Values />
       <Programs />
-      {/* <Leadership /> */}
+      <Leadership />
       <Membership />
       <Governance />
       <Contact />
