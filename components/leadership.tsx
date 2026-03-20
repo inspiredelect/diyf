@@ -9,6 +9,11 @@ const teamMembers = [
     image: '/founder_president.jpeg',
   },
   {
+    name: 'Nwakanma Chinasa Gladys',
+    role: 'Secretary General',
+    image: '/sec_general.jpeg',
+  },
+  {
     name: 'Ms. Anwulika Anna',
     role: 'Financial Secretary & Treasurer',
     image: '/financial_secatary.jpeg',
